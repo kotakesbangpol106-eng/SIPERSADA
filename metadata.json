@@ -1,0 +1,6 @@
+{
+  "name": "SIPERSADA - Sistem Informasi Persuratan Digital",
+  "description": "Sistem Informasi Persuratan Digital Badan Kesatuan Bangsa dan Politik Kota Gorontalo. Tata kelola surat masuk, surat keluar, disposisi, persetujuan pejabat, dan verifikasi dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

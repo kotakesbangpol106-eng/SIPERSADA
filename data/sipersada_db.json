@@ -1,0 +1,194 @@
+{
+  "profiles": [],
+  "documents": [
+    {
+      "id": "doc-m-001",
+      "kind": "masuk",
+      "number": "005/SETDA-KOTA/284/2026",
+      "agenda": "AGD-2026-0042",
+      "date": "2026-10-24",
+      "correspondent": "Sekretariat Daerah Kota Gorontalo",
+      "subject": "Undangan Rapat Koordinasi Persiapan Hari Sumpah Pemuda Ke-98",
+      "classification": "Undangan",
+      "urgency": "Segera",
+      "notes": "Rapat bertempat di Aula Bantayo Yiladia Kota Gorontalo pukul 09.00 WITA.",
+      "data": {
+        "agenda": "AGD-2026-0042",
+        "receivedDate": "2026-10-25"
+      },
+      "fileName": "Undangan_Rakor_Sumpah_Pemuda_Setda.pdf",
+      "fileSize": "342 KB",
+      "fileHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "ownerId": "usr-staf-01",
+      "archived": false,
+      "archivedAt": null,
+      "createdAt": "2026-10-25T08:30:00.000Z",
+      "updatedAt": "2026-10-25T08:30:00.000Z"
+    },
+    {
+      "id": "doc-m-002",
+      "kind": "masuk",
+      "number": "270/KPU-KOTA.GTL/X/2026",
+      "agenda": "AGD-2026-0043",
+      "date": "2026-10-22",
+      "correspondent": "Komisi Pemilihan Umum (KPU) Kota Gorontalo",
+      "subject": "Penyampaian Laporan Rekapitulasi Pemutakhiran Data Pemilih Berkelanjutan",
+      "classification": "Penting",
+      "urgency": "Biasa",
+      "notes": "Lampiran softcopy dan rekapitulasi 9 kecamatan se-Kota Gorontalo.",
+      "data": {
+        "agenda": "AGD-2026-0043",
+        "receivedDate": "2026-10-23"
+      },
+      "fileName": "Laporan_Rekapitulasi_KPU_Kota_Gorontalo_Okt2026.pdf",
+      "fileSize": "1.2 MB",
+      "fileHash": "a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e",
+      "ownerId": "usr-staf-02",
+      "archived": false,
+      "archivedAt": null,
+      "createdAt": "2026-10-23T09:15:00.000Z",
+      "updatedAt": "2026-10-23T09:15:00.000Z"
+    },
+    {
+      "id": "doc-k-001",
+      "kind": "keluar",
+      "number": "000.1.2/BAKESBANGPOL/318/2026",
+      "date": "2026-10-26",
+      "correspondent": "Dekan Fakultas Ilmu Sosial Universitas Negeri Gorontalo",
+      "subject": "Surat Rekomendasi Izin Penelitian Mahasiswa Jurusan Ilmu Administrasi",
+      "classification": "Biasa",
+      "urgency": "Biasa",
+      "notes": "Rekomendasi penelitian atas nama Mohamad Rizky Daud tentang Partisipasi Politik Masyarakat.",
+      "data": {},
+      "fileName": "Rekomendasi_Penelitian_UNG_318_2026.pdf",
+      "fileSize": "215 KB",
+      "fileHash": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
+      "ownerId": "usr-staf-02",
+      "archived": false,
+      "archivedAt": null,
+      "createdAt": "2026-10-26T10:00:00.000Z",
+      "updatedAt": "2026-10-27T03:30:00.000Z"
+    },
+    {
+      "id": "doc-k-002",
+      "kind": "keluar",
+      "number": "300.1.1/KESBANGPOL-GK/319/2026",
+      "date": "2026-10-27",
+      "correspondent": "Camat dan Lurah se-Kota Gorontalo",
+      "subject": "Himbauan Kewaspadaan Dini dan Monitoring Stabilitas Keamanan Lingkungan",
+      "classification": "Penting",
+      "urgency": "Segera",
+      "notes": "Peningkatan kewaspadaan jelang akhir tahun dan antisipasi potensi kerawanan sosial.",
+      "data": {},
+      "fileName": "Himbauan_Kewaspadaan_Dini_Kesbangpol_Kota_Gorontalo.pdf",
+      "fileSize": "410 KB",
+      "fileHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "ownerId": "usr-staf-01",
+      "archived": false,
+      "archivedAt": null,
+      "createdAt": "2026-10-27T11:20:00.000Z",
+      "updatedAt": "2026-10-27T11:20:00.000Z"
+    },
+    {
+      "id": "doc-k-003",
+      "kind": "keluar",
+      "number": "000.1.5/BAKESBANGPOL/310/2026",
+      "date": "2026-10-15",
+      "correspondent": "Inspektorat Kota Gorontalo",
+      "subject": "Penyampaian Laporan Kinerja Instansi Triwulan III Tahun 2026",
+      "classification": "Penting",
+      "urgency": "Biasa",
+      "notes": "Laporan realisasi program kegiatan dan anggaran Badan Kesbangpol.",
+      "data": {},
+      "fileName": "Laporan_Kinerja_Triwulan_III_Kesbangpol_2026.pdf",
+      "fileSize": "890 KB",
+      "fileHash": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+      "ownerId": "usr-admin-01",
+      "archived": true,
+      "archivedAt": "2026-10-20T14:00:00.000Z",
+      "createdAt": "2026-10-15T09:00:00.000Z",
+      "updatedAt": "2026-10-20T14:00:00.000Z"
+    }
+  ],
+  "approvals": [
+    {
+      "id": "app-001",
+      "documentId": "doc-k-001",
+      "applicantId": "usr-staf-02",
+      "signerId": "usr-pejabat-01",
+      "status": "DISETUJUI",
+      "notes": "Mohon persetujuan dan pengesahan surat rekomendasi penelitian mahasiswa.",
+      "approvedName": "Dr. H. Iskandar Usman, M.Si",
+      "approvedPosition": "Kepala Badan Kesatuan Bangsa dan Politik",
+      "approvedAt": "2026-10-27T03:30:00.000Z",
+      "createdAt": "2026-10-26T10:15:00.000Z",
+      "updatedAt": "2026-10-27T03:30:00.000Z"
+    },
+    {
+      "id": "app-002",
+      "documentId": "doc-k-002",
+      "applicantId": "usr-staf-01",
+      "signerId": "usr-pejabat-01",
+      "status": "MENUNGGU PERSETUJUAN",
+      "notes": "Draft surat himbauan kewaspadaan dini untuk camat dan lurah.",
+      "createdAt": "2026-10-27T11:30:00.000Z",
+      "updatedAt": "2026-10-27T11:30:00.000Z"
+    }
+  ],
+  "verifications": [
+    {
+      "id": "vrf-001",
+      "token": "sip-gtlo-318-2026-k01",
+      "documentId": "doc-k-001",
+      "requestId": "app-001",
+      "fileHash": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
+      "status": "DOKUMEN TERVERIFIKASI",
+      "number": "000.1.2/BAKESBANGPOL/318/2026",
+      "date": "2026-10-26",
+      "subject": "Surat Rekomendasi Izin Penelitian Mahasiswa Jurusan Ilmu Administrasi",
+      "approvedName": "Dr. H. Iskandar Usman, M.Si",
+      "approvedPosition": "Kepala Badan Kesatuan Bangsa dan Politik",
+      "approvedAt": "2026-10-27T03:30:00.000Z",
+      "createdAt": "2026-10-27T03:30:00.000Z"
+    }
+  ],
+  "dispositions": [
+    {
+      "id": "disp-001",
+      "documentId": "doc-m-001",
+      "giverId": "usr-pejabat-01",
+      "recipientId": "usr-staf-01",
+      "instruction": "Hadiri mewakili Kepala Badan dan siapkan laporan hasil koordinasi peringatan Hari Sumpah Pemuda.",
+      "deadline": "2026-10-28",
+      "urgency": "Segera",
+      "status": "DALAM PROSES",
+      "notes": "Materi paparan sudah disiapkan, konfirmasi kehadiran telah dikirim ke panitia Setda.",
+      "createdAt": "2026-10-25T09:30:00.000Z",
+      "updatedAt": "2026-10-26T14:00:00.000Z"
+    },
+    {
+      "id": "disp-002",
+      "documentId": "doc-m-002",
+      "giverId": "usr-pejabat-01",
+      "recipientId": "usr-staf-02",
+      "instruction": "Pelajari rekapitulasi DPT, lakukan sinkronisasi data kependudukan dan dokumentasikan sebagai arsip politik.",
+      "deadline": "2026-10-31",
+      "urgency": "Biasa",
+      "status": "BARU",
+      "notes": "",
+      "createdAt": "2026-10-23T10:00:00.000Z",
+      "updatedAt": "2026-10-23T10:00:00.000Z"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-1793437799195-290",
+      "documentId": null,
+      "userId": "usr-admin-471391ab",
+      "userName": "Andrew Poneto",
+      "action": "Pendaftaran pertama sistem: Administrator utama didaftarkan (admin.kesbangpol@gorontalokota.go.id)",
+      "createdAt": "2026-10-31T09:09:59.195Z"
+    }
+  ],
+  "notifications": []
+}
